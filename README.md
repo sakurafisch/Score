@@ -6,7 +6,7 @@
 
 系统要求：Android 9.0 或以上
 
-[点我下载](https://github.com/winnerwinter1998/Score/releases/download/1.0/app-debug.apk)
+[点我下载](https://github.com/winnerwinter1998/Score/releases/download/1.1/app-debug.apk)
 
 ## 截图
 
