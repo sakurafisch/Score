@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Score</string>
+    <string name="app_name">比赛计分器</string>
     <string name="teamA">A队</string>
     <string name="teamB">B队</string>
     <string name="scoreA">0</string>
